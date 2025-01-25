@@ -25,6 +25,7 @@ This README file highlights articles and videos where I have been mentioned or f
 
 ### **STEM and Hackathon Initiatives**
 1. **STEMing UP Alumnae Discuss Program Experiences and Success Stories**  
+   - [Watch Here](https://www.youtube.com/watch?v=qn9trfzJd6g)  
    - Shared my experiences and success stories as a STEMing UP alumna.  
 
 2. **yuHacks Day 1 | Intro to Figma**  
