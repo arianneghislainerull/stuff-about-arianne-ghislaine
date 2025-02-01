@@ -1,6 +1,6 @@
 # Arianne Ghislaine Rull - Media and Videos Featuring Me
 
-This README file highlights articles and videos where I have been mentioned or featured for my accomplishments and contributions to various fields, including scholarships, STEM initiatives, hackathons, and public health awareness.
+This README file highlights articles and videos where I have been mentioned or featured for my accomplishments and contributions to various fields, including scholarships, STEM initiatives, and hackathons.
 
 ---
 
@@ -35,23 +35,6 @@ This README file highlights articles and videos where I have been mentioned or f
 3. **Tech Talk: Roomify - Jacob Lane, Arianne Ghislaine Rull**  
    - [Watch Here](https://www.youtube.com/watch?v=1yrHwfLgD8w)  
    - Presented Roomify, a collaborative hackathon project showcasing innovative solutions.
-
-### **Public Health Awareness Videos (Filipino)**  
-1. **How to Wear and Remove Masks**  
-   - [Version 1](https://www.youtube.com/watch?v=qn9trfzJd6g)  
-   - [Version 2](https://www.youtube.com/watch?v=5kueFhIKqgE)  
-
-2. **Why Do Home Remedies Not Protect You Against the New Coronavirus?**  
-   - [Watch Here](https://www.youtube.com/watch?v=1CuYFXMbuxc&t=7s)  
-
-3. **Why Do We Need to Stay Home During the New Coronavirus Pandemic?**  
-   - [Watch Here](https://www.youtube.com/watch?v=tKXdAjKQxZU)  
-
-4. **What Is "Flatten the Curve" and Why Is "Social Distancing" Important During the Pandemic?**  
-   - [Watch Here](https://www.youtube.com/watch?v=M0Ul5_nq6k8)  
-
-5. **Why Does Drinking Hot Water Not Kill the New Coronavirus?**  
-   - [Watch Here](https://www.youtube.com/watch?v=DSfQE_doK7k)  
 
 ---
 
