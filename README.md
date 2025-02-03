@@ -21,7 +21,7 @@ This README file highlights articles and videos where I have been mentioned or f
 
 ### **Other Recognitions**
 5. [AIC Members in the News - November 2019](https://www.aspirations.org/news/news/aic-members-in-the-news-november-2019)  
-   - Featured for my involvement in STEM and academic achievements.
+   - First-ever Canadian Award for Aspirations in Computing! Featured for my involvement in STEM and academic achievements.
 
 6. [Talaria Summer Institute International Conference 2020](https://talaria.org/papers)  
    - Contributed a paper titled "The Rise of Artificial Intelligence in the Stock Market in the 21st Century."
