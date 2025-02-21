@@ -19,14 +19,17 @@ This README file highlights articles and videos where I have been mentioned or f
 4. [Crowdstrike NextGen Scholarships Overview](https://www.crowdstrike.com/en-us/press-releases/crowdstrike-opens-applications-for-2022-23-nextgen-scholarships/)  
    - Mentioned for my achievements as part of the Crowdstrike NextGen Scholarship program.
 
+5. [Crowdstrike Opens Call for Applications for its 2022-23 NextGen Scholarships](https://www.businesswire.com/news/home/20220412005453/en/CrowdStrike-Opens-Call-for-Applications-for-its-2022-23-NextGen-Scholarships)  
+   - Highlighted as part of the Crowdstrike NextGen Scholarship program, which supports the next generation of **cybersecurity and artificial intelligence leaders**.
+
 ### **Other Recognitions**
-5. [AIC Members in the News - November 2019](https://www.aspirations.org/news/news/aic-members-in-the-news-november-2019)  
+6. [AIC Members in the News - November 2019](https://www.aspirations.org/news/news/aic-members-in-the-news-november-2019)  
    - First-ever Canadian Award for Aspirations in Computing! Featured for my involvement in STEM and academic achievements.
 
-6. [Talaria Summer Institute International Conference 2020](https://talaria.org/papers)  
+7. [Talaria Summer Institute International Conference 2020](https://talaria.org/papers)  
    - Contributed a paper titled "The Rise of Artificial Intelligence in the Stock Market in the 21st Century."
 
-7. [Alpha V Hackathon Winners](https://medium.com/alpha-vantage/alphavhack-winners-and-hackathon-dd64b2b3fea8)  
+8. [Alpha V Hackathon Winners](https://medium.com/alpha-vantage/alphavhack-winners-and-hackathon-dd64b2b3fea8)  
    - Recognized as one of the winners in the Alpha V Hackathon.
 
 ---
@@ -49,6 +52,6 @@ This README file highlights articles and videos where I have been mentioned or f
 ---
 
 ## 📚 **About Me**
-I am a passionate Computer Science student with extensive experience in technical roles, hackathons, and community initiatives. I aim to use my skills to solve complex problems and build impactful solutions in data engineering, AI, and human-computer interaction.
+I am a passionate Computer Science student with extensive experience in technical roles, hackathons, and community initiatives. I aim to use my skills to solve complex problems and build impactful solutions in data engineering, AI, and human-computer interaction, with a focus on becoming a leader in **cybersecurity and artificial intelligence**.
 
 Feel free to explore these articles and videos to learn more about my journey and contributions.
