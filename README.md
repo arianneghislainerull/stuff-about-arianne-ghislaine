@@ -52,6 +52,6 @@ This README file highlights articles and videos where I have been mentioned or f
 ---
 
 ## 📚 **About Me**
-I am a passionate Computer Science student with extensive experience in technical roles, hackathons, and community initiatives. I aim to use my skills to solve complex problems and build impactful solutions in data engineering, AI, and human-computer interaction, with a focus on becoming a leader in **cybersecurity and artificial intelligence**.
+I am a passionate Computer Science student with extensive experience in technical roles, hackathons, and community initiatives. I aim to use my skills to solve complex problems and build impactful solutions in data engineering, AI, and human-computer interaction.
 
 Feel free to explore these articles and videos to learn more about my journey and contributions.
