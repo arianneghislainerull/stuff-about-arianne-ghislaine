@@ -31,6 +31,7 @@
 ## 🎤 **Speaking Engagements and Panels**
 - **Women in Tech Panel (York University)**  
   [View Event Poster](https://www.instagram.com/yorkcshub/p/DHHXvu0vUyS/?img_index=2)
+  
   [View Event Details](https://lu.ma/qzd50krp?tk=gNvBJk)
   - Spoke as a panelist at the Women in Tech Co-op/Internship panel, sharing insights about my journey in technology, experiences in internships, and advice for aspiring women in technology.
 
