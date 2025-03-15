@@ -32,6 +32,7 @@
 - **Women in Tech Panel (York University)**  
   [View Event Poster](https://www.instagram.com/yorkcshub/p/DHHXvu0vUyS/?img_index=2)     
   [View Event Details](https://lu.ma/qzd50krp?tk=gNvBJk)
+  [View Event Pictures on LinkedIn](https://www.linkedin.com/posts/yorkcshub_womenintech-internshipjourney-cshub-activity-7306579557770309632-FdgC?utm_source=share&utm_medium=member_desktop&rcm=ACoAACY4rDoBy5jz64oPII1oDw0G--k9ZeqWDI8)
   - Spoke as a panelist at the Women in Tech Co-op/Internship panel, sharing insights about my journey in technology, experiences in internships, and advice for aspiring women in technology.
 
 ---
