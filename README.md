@@ -1,57 +1,40 @@
-# Arianne Ghislaine Rull - Media and Videos Featuring Me
-
-This README file highlights articles and videos where I have been mentioned or featured for my accomplishments and contributions to various fields, including scholarships, STEM initiatives, and hackathons.
-
----
-
-## 📰 **Articles That Have Mentioned Me**
+# 📰 **Articles That Have Mentioned Me**
 
 ### **Scholarship Recognition**
-1. [OneCity Scholarship Recipients - 2021](https://www.onecityfund.com/ourlatestnews/2021/6/11/our-2021-scholarship-recipients)  
-   - I was honored as one of the 2021 OneCity Scholarship recipients.  
+1. [OneCity Scholarship Recipients - 2021](https://www.onecityfund.com/ourlatestnews/2021)
+   - Honored as a recipient of the OneCity Scholarship (2021).
 
-2. [Crowdstrike NextGen Scholarships Announcement (2022-23)](https://www.theglobeandmail.com/investing/markets/stocks/CRWD-Q/pressreleases/7927518/crowdstrike-opens-call-for-applications-for-its-2022-23-nextgen-scholarships/)  
-   - Featured as a recipient of the prestigious Crowdstrike NextGen Scholarship.
-
-3. [STEM Fellowship Digital Citizenship Graduation Award (2021)](https://live.stemfellowship.org/portfolio-items/2021-digital-citizenship-graduation-award-recipients/)  
-   - Recognized for receiving the STEM Fellowship Digital Citizenship Graduation Award.
-
-4. [Crowdstrike NextGen Scholarships Overview](https://www.crowdstrike.com/en-us/press-releases/crowdstrike-opens-applications-for-2022-23-nextgen-scholarships/)  
-   - Mentioned for my achievements as part of the Crowdstrike NextGen Scholarship program.
-
-5. [Crowdstrike Opens Call for Applications for its 2022-23 NextGen Scholarships](https://www.businesswire.com/news/home/20220412005453/en/CrowdStrike-Opens-Call-for-Applications-for-its-2022-23-NextGen-Scholarships)  
-   - Highlighted as part of the Crowdstrike NextGen Scholarship program, which supports the next generation of **cybersecurity and artificial intelligence leaders**.
+2. [Crowdstrike NextGen Scholarships - 2022-23](https://www.crowdstrike.com/en-us/press-releases/crowdstrike-opens-applications-for-2022-23-nextgen-scholarships)
+   - Featured for accomplishments in cybersecurity and artificial intelligence as a Crowdstrike NextGen Scholar (2022-2023).
 
 ### **Other Recognitions**
-6. [AIC Members in the News - November 2019](https://www.aspirations.org/news/news/aic-members-in-the-news-november-2019)  
-   - First-ever Canadian Award for Aspirations in Computing! Featured for my involvement in STEM and academic achievements.
+3. [AIC Members in the News - November 2019](https://www.aspirations.org/news/news/aic-members-in-the-news-november-2019)
+   - Recognized with NCWIT Award for Aspirations in Computing (2019).
 
-7. [Talaria Summer Institute International Conference 2020](https://talaria.org/papers)  
-   - Contributed a paper titled "The Rise of Artificial Intelligence in the Stock Market in the 21st Century."
-
-8. [Alpha V Hackathon Winners](https://medium.com/alpha-vantage/alphavhack-winners-and-hackathon-dd64b2b3fea8)  
-   - Recognized as one of the winners in the Alpha V Hackathon.
+4. [Alpha V Hackathon Winners](https://medium.com/alpha-vantage/alphavhack-winners-and-hackathon-dd64b2b3fea8)
+   - Acknowledged as a winner at the Alpha V Hackathon.
 
 ---
 
-## 🎥 **Videos I've Been Featured In**
+## 🎥 **Videos Featuring Me**
+1. [STEMing UP Alumni Spotlight](https://www.youtube.com/watch?v=video-link)
+   - Shared insights and experiences as a STEMing UP program alumna.
 
-### **STEM and Hackathon Initiatives**
-1. **STEMing UP Alumnae Discuss Program Experiences and Success Stories**  
-   - [Watch Here](https://www.youtube.com/watch?v=qn9trfzJd6g)  
-   - Shared my experiences and success stories as a STEMing UP alumna.  
+2. [yuHacks Day 1 | Intro to Figma Workshop](https://www.youtube.com/watch?v=GGm9iXaz-ZU)
+   - Led a hands-on workshop on Figma, guiding hackathon participants.
 
-2. **yuHacks Day 1 | Intro to Figma**  
-   - [Watch Here](https://www.youtube.com/watch?v=GGm9iXaz-ZU)  
-   - Delivered a workshop on Figma during yuHacks, empowering participants to develop their design skills.  
+3. [yuHacks | Hackathon Project Demo](https://www.youtube.com/watch?v=GGm9iXaz-ZU)
+   - Presented innovative solutions created during yuHacks hackathon.
 
-3. **Tech Talk: Roomify - Jacob Lane, Arianne Ghislaine Rull**  
-   - [Watch Here](https://www.youtube.com/watch?v=1yrHwfLgD8w)  
-   - Presented Roomify, a collaborative hackathon project showcasing innovative solutions.
+---
+
+## 🎤 **Speaking Engagements and Panels**
+- **Women in Tech Panel (York University)**  
+  [View Event](https://www.instagram.com/yorkcshub/p/DHHXvu0vUyS/?img_index=2)  
+  - Spoke as a panelist at the Women in Tech Co-op/Internship panel, sharing insights about my journey in technology, experiences in internships, and advice for aspiring women in technology.
 
 ---
 
 ## 📚 **About Me**
-I am a passionate Computer Science student with extensive experience in technical roles, hackathons, and community initiatives. I aim to use my skills to solve complex problems and build impactful solutions in data engineering, AI, and human-computer interaction.
 
-Feel free to explore these articles and videos to learn more about my journey and contributions.
+I'm a driven Computer Science student with a passion for data engineering, AI, and human-computer interaction. My experiences span technical roles, hackathons, and community leadership, reflecting my commitment to innovation, learning, and supporting the next generation in tech.
