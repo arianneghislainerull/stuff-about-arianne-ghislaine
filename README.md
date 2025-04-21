@@ -35,7 +35,7 @@ This README file highlights articles and videos where I have been mentioned or f
 9. [TELUS Co-op Feature – GTLP](https://www.linkedin.com/posts/telus-gtlp_at-telus-were-not-just-building-technology-activity-7316492242678870016-qfYo/?utm_source=share&utm_medium=member_desktop&rcm=ACoAACY4rDoBy5jz64oPII1oDw0G--k9ZeqWDI8)
    - Highlighted by TELUS for my work as a Software/Data Engineer Intern, contributing to large-scale infrastructure projects.
 
-11. [BearHacks Organizer Spotlight – 2024](https://www.linkedin.com/posts/bearhacks_bearhacks-is-excited-to-announce-arianne-activity-7311834414873776129-BE2V/?utm_source=share&utm_medium=member_desktop&rcm=ACoAACY4rDoBy5jz64oPII1oDw0G--k9ZeqWDI8)
+11. [BearHacks Judge Spotlight – 2024](https://www.linkedin.com/posts/bearhacks_bearhacks-is-excited-to-announce-arianne-activity-7311834414873776129-BE2V/?utm_source=share&utm_medium=member_desktop&rcm=ACoAACY4rDoBy5jz64oPII1oDw0G--k9ZeqWDI8)
     - Recognized for my involvement as a featured judge at BearHacks, helping empower students in tech.
 
 ---
